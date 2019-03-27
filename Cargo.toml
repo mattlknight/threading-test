@@ -1,0 +1,12 @@
+[package]
+name = "threading-test"
+version = "0.1.0"
+authors = ["Matthew Knight <mattlknight@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "*"
+actix-net = "*"
+actix-web = "*"
+futures ="*"
+lazy_static = "*"
